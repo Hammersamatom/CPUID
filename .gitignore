@@ -1,0 +1,10 @@
+# Name of the program
+
+
+# Compiled stuff
+*.o
+*.out
+*.gcda
+
+# Unneeded stuff
+.vscode
